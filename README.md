@@ -3,8 +3,6 @@
 -->
 
 ### 新旧版本同时更新  答疑交流QQ群967451175
-V3版（原版） https://github.com/lan-tianxiang/jd_shell
-A1版（较新） https://github.com/lan-tianxiang/js_tool
 
 
 <p align="center">
